@@ -10,11 +10,12 @@ The purpose of my project is to generate a random semester schedule of six cours
 For each platform, there will be graphs from four benchmarks. The benchmarks are based on four different fixed probabilities that the threads have of reading or writing. The platforms are run from my 2020 13" MacBook Pro M1 with 16GB of RAM and 8 cores (4 performance and 4 efficiency). The platforms include running straight from my computer, using the rho server, and using the gee server.
 
 ## **Load 1: ≈ 99% Reads** ##
-
+<img width="1327" alt="CSC375Load1" src="https://github.com/lljustycell999/CSC375Assignment2.github.io/assets/123667513/2a23a015-401d-46fe-bd10-da8fcff7e52b">
 ## **Load 2: ≈ 90% Reads** ##
-
+<img width="1330" alt="CSC375Load2" src="https://github.com/lljustycell999/CSC375Assignment2.github.io/assets/123667513/fd58045c-5f27-43ff-8711-6e92e9db9300">
 ## **Load 3: ≈ 75% Reads** ##
-
+<img width="1333" alt="CSC375Load3" src="https://github.com/lljustycell999/CSC375Assignment2.github.io/assets/123667513/9b08e23c-5edd-4f84-b245-f9131bb1c116">
 ## **Load 4: ≈ 50% Reads** ##
+<img width="1333" alt="CSC375Load4" src="https://github.com/lljustycell999/CSC375Assignment2.github.io/assets/123667513/3d6e4bc8-8363-46e9-9619-deb260ce5bf1">
 
 ## **Conclusion** ##

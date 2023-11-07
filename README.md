@@ -9,6 +9,8 @@ The purpose of my project is to generate a random semester schedule of six cours
 ## **What are the Different Loads?** ##
 For each platform, there will be graphs from four benchmarks. The benchmarks are based on four different fixed probabilities that the threads have of reading or writing. The platforms are run from my 2020 13" MacBook Pro M1 with 16GB of RAM and 8 cores (4 performance and 4 efficiency). The platforms include running straight from my computer, using the rho server, and using the gee server.
 
+**Note: Each benchmark uses the default number of forks, warmups, and iteration, which is 5 of each.**
+
 ## **Load 1: ≈ 99% Reads** ##
 <img width="1327" alt="CSC375Load1" src="https://github.com/lljustycell999/CSC375Assignment2.github.io/assets/123667513/2a23a015-401d-46fe-bd10-da8fcff7e52b">
 
